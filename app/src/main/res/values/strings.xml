@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="checkbox">com.example.assignment.checkbox</string>
+    <string name="name">com.example.assignment.name</string>
+</resources>
